@@ -1456,7 +1456,8 @@ body:has(.contact:target) .contact-link::before {
   .chef1 svg,
   .chef2 svg,
   .chef3 svg {
-    bottom: 170px;
+    bottom: 160px;
+    height: 125px;
   }
 
   .cards {
@@ -1626,7 +1627,7 @@ body:has(.contact:target) .contact-link::before {
   .chef1 svg,
   .chef2 svg,
   .chef3 svg {
-    bottom: 170px;
+    bottom: 188px;
   }
 
   .cards {
@@ -1830,7 +1831,7 @@ body:has(.contact:target) .contact-link::before {
   .chef1 svg,
   .chef2 svg,
   .chef3 svg {
-    bottom: 234px;
+    bottom: 218px;
   }
 
   .cards {
@@ -2366,7 +2367,7 @@ body:has(.contact:target) .contact-link::before {
   .chef1 svg,
   .chef2 svg,
   .chef3 svg {
-    bottom: 206px !important;
+    bottom: 190px !important;
   }
 
   .cards {
