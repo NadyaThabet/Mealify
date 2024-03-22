@@ -2368,6 +2368,7 @@ body:has(.contact:target) .contact-link::before {
   .chef2 svg,
   .chef3 svg {
     bottom: 190px !important;
+    height: 165px !important;
   }
 
   .cards {
